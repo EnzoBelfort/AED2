@@ -1,0 +1,1 @@
+sudo chrt -f 99 su -c "python3.11 <CAMINHO_ABSOLUTO>/compilar_executar.py" - $(whoami)

@@ -1,0 +1,12 @@
+Para que se tenha uma melhor compreensão dos algoritmos, deve-se ter em mente que o formato dos
+arquivos de entrada de todos os casos de teste é:
+ - Primeira linha: número de elementos <espaço> tipo de dado <espaço> número máximo de caracteres/algarismos
+ - Linhas seguintes: elementos do vetor, um por linha
+Exemplo de vetor de string com 4 elementos:
+4 s 7
+BANANA
+ABACAXI
+MACA
+FRUTA
+
+O formato dos arquivos de saída, por sua vez, são os elementos do vetor ordenado, um por linha.
